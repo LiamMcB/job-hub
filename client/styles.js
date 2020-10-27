@@ -7,6 +7,16 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  loginText: {
+    fontWeight: 'bold',
+    fontSize: 'large',
+    marginTop: '1rem',
+    marginBottom: '1rem',
+  },
+  loginButton: {
+    marginBottom: '1rem',
+    padding: '0.5rem',
+  },
 });
 
 export default styles;
